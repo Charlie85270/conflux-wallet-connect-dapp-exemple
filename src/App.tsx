@@ -24,7 +24,7 @@ function App() {
           textAlign: "center",
         }}
       >
-        Simple exemple how to connect Metamask, fluent or OKW wallet with
+        Simple exemple how to connect Metamask, fluent or OKX wallet with
         conflux-wallet-connect on Conflux eSpace
       </p>
       <div
